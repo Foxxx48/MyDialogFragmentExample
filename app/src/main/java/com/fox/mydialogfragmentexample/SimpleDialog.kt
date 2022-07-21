@@ -47,10 +47,11 @@ class SimpleDialog : DialogFragment() {
 
     override fun onStart() {
         super.onStart()
-        dialog?.window?.setLayout(
-            WindowManager.LayoutParams.MATCH_PARENT,
-            WindowManager.LayoutParams.WRAP_CONTENT
-        )
+//        dialog?.window?.setLayout(
+//            WindowManager.LayoutParams.MATCH_PARENT,
+//            WindowManager.LayoutParams.WRAP_CONTENT,
+//
+//        )
     }
 
     private fun setupView(view: View) {

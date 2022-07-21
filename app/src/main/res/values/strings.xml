@@ -4,4 +4,6 @@
     <string name="msg_logout">Goodbye</string>
     <string name="label_ok">OK</string>
     <string name="label_cancel">CANCEL</string>
+    <string name="my_dialog_fragment">My Dialog Fragment Example</string>
+    <string name="btn_alert_dialog">Alert Dialog</string>
 </resources>
